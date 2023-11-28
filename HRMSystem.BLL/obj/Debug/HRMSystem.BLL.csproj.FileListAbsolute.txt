@@ -1,0 +1,125 @@
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+E:\MyProject\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+E:\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+E:\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+E:\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+E:\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+E:\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+E:\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+E:\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+E:\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+E:\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+E:\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+E:\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+E:\C# projiect\5\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+E:\exp\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\NPOI.dll
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+E:\exp\7\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\NPOI.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\NPOI.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.csproj.CopyComplete
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem.BLL\obj\Debug\HRMSystem.BLL.pdb

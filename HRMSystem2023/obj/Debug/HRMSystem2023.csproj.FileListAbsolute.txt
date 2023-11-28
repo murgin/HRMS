@@ -1,0 +1,343 @@
+E:\DotProjects\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+E:\DotProjects\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+E:\DotProjects\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+E:\DotProjects\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csprojResolveAssemblyReference.cache
+E:\DotProjects\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+E:\DotProjects\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+E:\DotProjects\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+E:\DotProjects\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.Cache
+E:\DotProjects\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+E:\DotProjects\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.Cache
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+E:\MyProject\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+E:\MyProject\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+E:\MyProject\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csprojResolveAssemblyReference.cache
+E:\MyProject\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+E:\MyProject\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+E:\MyProject\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+E:\MyProject\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.Cache
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+E:\MyProject\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\HRMSystem2023 (1)\HRMSystem2023\obj\Debug\HRMSystem2023.FormPasswordModify.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+E:\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+E:\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+C:\Users\70520\Desktop\3\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+E:\C# projiect\5\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem.Model.FormEmployeeAdd.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem.Model.FormEmployeeAdd.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+E:\exp\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem.Model.FormEmployeeAdd.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+E:\exp\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem.Model.FormEmployeeAdd.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\6\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentAdd.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentAdd.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\NPOI.dll
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+E:\exp\7\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentAdd.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem.Model.FormEmployeeAdd.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+E:\exp\7\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormSalarySheet.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\NPOI.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentAdd.resources
+C:\Users\70520\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormSalarySheet.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormSalarySheet.resources
+C:\Users\Administrator\Desktop\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormItemPrint.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe.config
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\NPOI.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\EnvDTE.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\stdole.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.BLL.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.DAL.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\HRMSystem.Model.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.AssemblyReference.cache
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentAdd.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem.Model.FormEmployeeAdd.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormDepartmentManage.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormEmployeeList.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormItemPrint.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogin.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogMigrate.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormLogQuery.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormMain.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormPwdModify.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorManage.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormSalarySheet.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.Properties.Resources.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.GenerateResource.cache
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CoreCompileInputs.cache
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.csproj.CopyComplete
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.exe
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.pdb
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormAboutBox.resources
+C:\Users\70520\Desktop\8\HRMSystem2023\HRMSystem2023\obj\Debug\HRMSystem2023.FormOperatorAdd.resources

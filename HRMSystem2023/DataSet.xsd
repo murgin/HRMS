@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet" targetNamespace="http://tempuri.org/DataSet.xsd" xmlns:mstns="http://tempuri.org/DataSet.xsd" xmlns="http://tempuri.org/DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Year" msprop:Generator_UserColumnName="Year" msprop:Generator_ColumnPropNameInTable="YearColumn" msprop:Generator_ColumnPropNameInRow="Year" msprop:Generator_ColumnVarNameInTable="columnYear" type="xs:string" minOccurs="0" />
+              <xs:element name="Month" msprop:Generator_UserColumnName="Month" msprop:Generator_ColumnPropNameInTable="MonthColumn" msprop:Generator_ColumnPropNameInRow="Month" msprop:Generator_ColumnVarNameInTable="columnMonth" type="xs:string" minOccurs="0" />
+              <xs:element name="Dept" msprop:Generator_UserColumnName="Dept" msprop:Generator_ColumnPropNameInTable="DeptColumn" msprop:Generator_ColumnPropNameInRow="Dept" msprop:Generator_ColumnVarNameInTable="columnDept" type="xs:string" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" type="xs:string" minOccurs="0" />
+              <xs:element name="BaseSalary" msprop:Generator_UserColumnName="BaseSalary" msprop:Generator_ColumnPropNameInTable="BaseSalaryColumn" msprop:Generator_ColumnPropNameInRow="BaseSalary" msprop:Generator_ColumnVarNameInTable="columnBaseSalary" type="xs:string" minOccurs="0" />
+              <xs:element name="Bonus" msprop:Generator_UserColumnName="Bonus" msprop:Generator_ColumnPropNameInTable="BonusColumn" msprop:Generator_ColumnPropNameInRow="Bonus" msprop:Generator_ColumnVarNameInTable="columnBonus" type="xs:string" minOccurs="0" />
+              <xs:element name="Fine" msprop:Generator_UserColumnName="Fine" msprop:Generator_ColumnPropNameInTable="FineColumn" msprop:Generator_ColumnPropNameInRow="Fine" msprop:Generator_ColumnVarNameInTable="columnFine" type="xs:string" minOccurs="0" />
+              <xs:element name="Other" msprop:Generator_UserColumnName="Other" msprop:Generator_ColumnPropNameInTable="OtherColumn" msprop:Generator_ColumnPropNameInRow="Other" msprop:Generator_ColumnVarNameInTable="columnOther" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
